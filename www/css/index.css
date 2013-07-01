@@ -47,7 +47,11 @@ body {
 
 /* Portrait layout (default) */
 .app {
-    background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
+    
+    background:url(https://f.cloud.github.com/assets/4893710/728853/71291cbe-e21e-11e2-8a5f-b997a4494dec.jpg) no-repeat center top;
+    
+    
+    /*background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
     position:absolute;             /* position in the center of the screen */
     left:50%;
     top:50%;
